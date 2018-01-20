@@ -1,1 +1,0 @@
-Created an application to fetch details of books and sort them in alphabetical order using ISBNs from Amazon before displaying the same. The project allowed me to develop concurrent programming insight.
